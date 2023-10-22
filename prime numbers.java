@@ -1,3 +1,4 @@
+//write a program in java to know whether a number is prime or not.//
 public class Main {
     public static void main(String[] args) {
         int a,b=0,c=0;
