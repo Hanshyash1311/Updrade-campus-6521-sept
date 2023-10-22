@@ -1,3 +1,4 @@
+//Write a program using different data types//
 import java.util.Scanner;
 
 public class Different {
