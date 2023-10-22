@@ -1,3 +1,4 @@
+// Write a program to find the area of triangle.//
 import java.util.Scanner;
 
 public class Area {
